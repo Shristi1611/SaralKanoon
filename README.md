@@ -162,3 +162,5 @@ Apache 2.0 -- see LICENSE file
 Shristi Sinha - Built from scratch as a learning project to explore AI agents, RAG systems, and multilingual NLP.
 
 "Law should not be a privilege of only those who can afford lawyers."
+
+
