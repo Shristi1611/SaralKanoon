@@ -37,7 +37,7 @@ SaralKanoon lets anyone ask questions about Indian law in their own language and
 | LLM | Groq (Llama 3.3 70B) | Generates answers |
 | Vector Database | Qdrant Cloud | Stores legal document chunks |
 | Embeddings | Ollama + nomic-embed-text | Converts text to vectors |
-| Frontend | Vanilla HTML/CSS/JS | Chat interface |
+| Frontend | Simple and basic HTML/CSS/JS | Chat interface |
 
 ---
 
