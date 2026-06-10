@@ -163,4 +163,3 @@ Shristi Sinha - Built from scratch as a learning project to explore AI agents, R
 
 "Law should not be a privilege of only those who can afford lawyers."
 
-
