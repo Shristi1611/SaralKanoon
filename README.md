@@ -10,7 +10,7 @@ A free, multilingual AI legal assistant that helps ordinary Indian citizens unde
 
 - India has 22 official languages but most legal documents are in dense English
 - Lawyers charge Rs 500-5,000 just to explain a document
-- Millions of citizens -- farmers, workers, tenants -- have no access to legal clarity
+- Millions of citizens: farmers, workers, tenants, have no access to legal clarity
 - Government schemes, court orders, land records remain inaccessible to those who need them most
 
 ## The Solution
@@ -21,11 +21,11 @@ SaralKanoon lets anyone ask questions about Indian law in their own language and
 
 ## Features
 
-- Multilingual -- Ask in Hindi, Tamil, Bengali, Telugu, or English
-- RAG-powered -- Answers sourced from actual Indian legal documents
-- Simple language -- No legal jargon, explained like a knowledgeable friend
-- Multiple laws -- Consumer Protection, RTI, Motor Vehicles, Domestic Violence Act, MGNREGA and more
-- Completely free -- Built on free-tier tools, Rs 0 cost
+- Multilingual: Ask in Hindi, Tamil, Bengali, Telugu, or English
+- RAG-powered: Answers sourced from actual Indian legal documents
+- Simple language: No legal jargon, explained like a knowledgeable friend
+- Multiple laws: Consumer Protection, RTI, Motor Vehicles, Domestic Violence Act, MGNREGA and more
+- Completely free: Built on free-tier tools, Rs 0 cost
 
 ---
 
@@ -159,6 +159,6 @@ Apache 2.0 -- see LICENSE file
 
 ## Built By
 
-Shristi Sinha -- Built from scratch as a learning project to explore AI agents, RAG systems, and multilingual NLP.
+Shristi Sinha - Built from scratch as a learning project to explore AI agents, RAG systems, and multilingual NLP.
 
 "Law should not be a privilege of those who can afford lawyers."
